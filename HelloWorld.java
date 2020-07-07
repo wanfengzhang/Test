@@ -1,3 +1,0 @@
-main{
-update hello world
-}
